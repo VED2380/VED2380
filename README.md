@@ -83,7 +83,6 @@ I am a final-year Computer Science Engineering student at SASTRA University pass
 ### 📫 Get in Touch
 
 * 📧 Email: [09vedanragnihotri@gmail.com](mailto:09vedanragnihotri@gmail.com)
-* 🌐 [LinkedIn](https://linkedin.com/in/vedantagnihotri)
 * 💻 [GitHub](https://github.com/VED2380)
 
 ---
