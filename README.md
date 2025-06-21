@@ -65,18 +65,6 @@ I am a final-year Computer Science Engineering student at SASTRA University pass
 * *Instance Segmentation using YOLOv8* - submitted to IEEE/CV conference
 
 ---
-
-### 📈 Leetcode Progress
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/VED2380?ext=heatmap)
-
----
-
-### 🗃️ GitHub Contributions
-
-![GitHub Streak](https://streak-stats.demolab.com?user=VED2380\&theme=dark\&hide_border=true\&date_format=j%20M%5B%20Y%5D)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VED2380\&layout=compact\&theme=dark\&hide_border=true)
-
 ---
 
 ### 📫 Get in Touch
