@@ -24,15 +24,30 @@ I am a final-year Computer Science Engineering student at SASTRA University pass
 ### 🛠️ Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-181717?style=for-the-badge\&logo=python)
+![C++](https://img.shields.io/badge/-C++-181717?style=for-the-badge\&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge\&logo=javascript)
+![SQL](https://img.shields.io/badge/-SQL-181717?style=for-the-badge\&logo=postgresql)
+![Java](https://img.shields.io/badge/-Java-181717?style=for-the-badge\&logo=java)
+![HTML5](https://img.shields.io/badge/-HTML5-181717?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-181717?style=for-the-badge\&logo=css3)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-181717?style=for-the-badge\&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-181717?style=for-the-badge\&logo=pytorch)
 ![YOLOv8](https://img.shields.io/badge/-YOLOv8-181717?style=for-the-badge\&logo=github)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-181717?style=for-the-badge\&logo=fastapi)
+![Flask](https://img.shields.io/badge/-Flask-181717?style=for-the-badge\&logo=flask)
 ![Docker](https://img.shields.io/badge/-Docker-181717?style=for-the-badge\&logo=docker)
 ![MediaPipe](https://img.shields.io/badge/-MediaPipe-181717?style=for-the-badge\&logo=google)
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-181717?style=for-the-badge\&logo=googlecloud)
-
----
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-181717?style=for-the-badge\&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/-Pandas-181717?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-181717?style=for-the-badge\&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-181717?style=for-the-badge\&logo=plotly)
+![SHAP](https://img.shields.io/badge/-SHAP-181717?style=for-the-badge\&logo=python)
+![Albumentations](https://img.shields.io/badge/-Albumentations-181717?style=for-the-badge\&logo=python)
+![Pydantic](https://img.shields.io/badge/-Pydantic-181717?style=for-the-badge\&logo=python)
+![Git](https://img.shields.io/badge/-Git-181717?style=for-the-badge\&logo=git)
+![VSCode](https://img.shields.io/badge/-VS%20Code-181717?style=for-the-badge\&logo=visualstudiocode)
+----------------------------------------------------------------------------------------------------
 
 ### 📚 Featured Projects
 
