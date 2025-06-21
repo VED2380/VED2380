@@ -77,8 +77,6 @@ I am a final-year Computer Science Engineering student at SASTRA University pass
 ### 🧠 Research Publications
 
 * *Respiratory Sound Classification using Deep Learning* - under review (Medical AI Journal)
-* *Instance Segmentation using YOLOv8* - submitted to IEEE/CV conference
-
 ---
 ---
 
